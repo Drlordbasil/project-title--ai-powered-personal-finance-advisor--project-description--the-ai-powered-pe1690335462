@@ -14,6 +14,6 @@ Here are some improvements I would make to the given Python program:
 
 7. Add comments and docstrings to explain the purpose of each function and provide information on the expected input and output.
 
-8. Consider using a configuration file (e.g., `config.ini` or `config.py`) to store environment-specific variables and settings, such as database connections or API keys. This will make it easier to manage and modify these settings without modifying the code.
+8. Consider using a configuration file(e.g., `config.ini` or `config.py`) to store environment-specific variables and settings, such as database connections or API keys. This will make it easier to manage and modify these settings without modifying the code.
 
 Please note that these are general suggestions to improve the code structure and organization. The actual implementation details will depend on your specific application requirements and design choices.
